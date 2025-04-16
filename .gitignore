@@ -4,4 +4,6 @@ test.sh
 nvim
 
 spell/
-lazy-lock.json
+
+# --- recommended to remove from .gitignore by kickstart ---
+# lazy-lock.json
